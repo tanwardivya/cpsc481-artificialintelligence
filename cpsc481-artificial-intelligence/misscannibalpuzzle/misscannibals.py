@@ -1,4 +1,4 @@
-from search import *
+from aima_python.search import *
 
 class MissCannibals(Problem):
     def __init__(self, M=3, C=3, goal=(0, 0, False)):

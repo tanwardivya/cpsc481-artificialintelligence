@@ -1,1 +1,1 @@
-# misscannibalpuzzle
+# CPSC481-Artificial Intelligence
